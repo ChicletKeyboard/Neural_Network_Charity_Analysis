@@ -18,7 +18,10 @@ What variable(s) are neither targets nor features were removed
 
 ## Compiling, Training, and Evaluating the Model
 
-This model is made with an input features & two hidden layers. The first hidden layer has 80 neurons, the second has 30 there is also an output layer. Each layer has an activation function. The first and second hidden layers have an activation function "relu" & the output layer is "sigmoid".
+This model is made with an input features & two hidden layers. The first hidden layer has 80 neurons, the second has 30 there is also an output layer. Each layer has an activation function. The first and second hidden layers have an activation function "relu" & the output layer is "sigmoid". 
+
+* Although we the target for the model was to be 75% or above, I was not able to reach the target.
+* Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
 
 ## Summary
 
